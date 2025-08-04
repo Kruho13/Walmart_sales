@@ -62,7 +62,13 @@ This project is an end-to-end data analysis solution designed to extract critica
      - Profit margin analysis by branch and category.
    - **Documentation**: Keep clear notes of each query's objective, approach, and results.
 
-### 10. Project Publishing and Documentation
+### 11. Tableau Dashboard: Visualizing Business Insights
+   - Analyzed key KPIs for the most recent year (Sales, Profit, # of Customers)
+   - Constructed a filterable line graph of sales by month discovering key findings
+   - Developed a bar chart of sales by category
+   - Created a visual map representation by store of Walmart branches throughout Texas
+
+### 11. Project Publishing and Documentation
    - **Documentation**: Maintain well-structured documentation of the entire process in Markdown or a Jupyter Notebook.
    - **Project Publishing**: Publish the completed project on GitHub or any other version control platform, including:
      - The `README.md` file (this document).
@@ -108,13 +114,10 @@ This project is an end-to-end data analysis solution designed to extract critica
 
 ## Results and Insights
 
-This section will include your analysis findings:
 - **Sales Insights**: Key categories, branches with highest sales, and preferred payment methods.
 - **Profitability**: Insights into the most profitable product categories and locations.
 - **Customer Behavior**: Trends in ratings, payment preferences, and peak shopping hours.
-- 2023 trends (Tableau)
-- 50% of sales came from last two months
-- 
+  
 
 ## Future Enhancements
 
