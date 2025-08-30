@@ -67,6 +67,7 @@ This project is an end-to-end data analysis solution designed to extract critica
    - Constructed a filterable line graph of sales by month discovering key findings
    - Developed a bar chart of sales by category
    - Created a visual map representation by store of Walmart branches throughout Texas
+   - Dashboard link: https://public.tableau.com/views/WalmartTableauanalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 ### 11. Project Publishing and Documentation
    - **Documentation**: Maintain well-structured documentation of the entire process in Markdown or a Jupyter Notebook.
